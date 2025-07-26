@@ -1,0 +1,6 @@
+com/medsync_hospital/patient_service/service/PatientService.class
+com/medsync_hospital/patient_service/model/Patient.class
+com/medsync_hospital/patient_service/PatientServiceApplication.class
+com/medsync_hospital/patient_service/model/Patient$Gender.class
+com/medsync_hospital/patient_service/repository/PatientRepository.class
+com/medsync_hospital/patient_service/controller/PatientController.class

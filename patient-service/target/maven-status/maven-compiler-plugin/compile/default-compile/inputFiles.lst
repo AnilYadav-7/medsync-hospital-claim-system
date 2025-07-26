@@ -1,0 +1,5 @@
+/workspace/patient-service/src/main/java/com/medsync_hospital/patient_service/PatientServiceApplication.java
+/workspace/patient-service/src/main/java/com/medsync_hospital/patient_service/controller/PatientController.java
+/workspace/patient-service/src/main/java/com/medsync_hospital/patient_service/model/Patient.java
+/workspace/patient-service/src/main/java/com/medsync_hospital/patient_service/repository/PatientRepository.java
+/workspace/patient-service/src/main/java/com/medsync_hospital/patient_service/service/PatientService.java
