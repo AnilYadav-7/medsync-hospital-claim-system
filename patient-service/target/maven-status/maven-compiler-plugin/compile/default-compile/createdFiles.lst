@@ -1,0 +1,10 @@
+com\medsync_hospital\patient_service\repository\PatientRepository.class
+com\medsync_hospital\patient_service\service\PatientService.class
+com\medsync_hospital\patient_service\PatientServiceApplication.class
+com\medsync_hospital\patient_service\dto\PatientResponseDTO.class
+com\medsync_hospital\patient_service\enums\BloodGroup.class
+com\medsync_hospital\patient_service\enums\PatientStatus.class
+com\medsync_hospital\patient_service\enums\Gender.class
+com\medsync_hospital\patient_service\dto\PatientRequestDTO.class
+com\medsync_hospital\patient_service\controller\PatientController.class
+com\medsync_hospital\patient_service\entity\Patient.class

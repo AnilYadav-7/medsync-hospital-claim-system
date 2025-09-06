@@ -1,0 +1,9 @@
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\controller\InsuranceCompanyController.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\dto\InsuranceCompanyRequestDTO.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\dto\InsuranceCompanyResponseDTO.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\entity\InsuranceCompany.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\enums\InsuranceCompanyStatus.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\enums\InsuranceCompanyType.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\InsuranceCompanyServiceApplication.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\repository\InsuranceCompanyRepository.java
+D:\medsync-hospital-claim-system\insurance-company-service\src\main\java\com\medsync_hospital\insurance_company_service\service\InsuranceCompanyService.java

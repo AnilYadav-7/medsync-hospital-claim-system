@@ -1,0 +1,9 @@
+com\medsync_hospital\hospital_service\dto\HospitalResponseDTO.class
+com\medsync_hospital\hospital_service\enums\HospitalType.class
+com\medsync_hospital\hospital_service\entity\Hospital.class
+com\medsync_hospital\hospital_service\service\HospitalService.class
+com\medsync_hospital\hospital_service\repository\HospitalRepository.class
+com\medsync_hospital\hospital_service\enums\HospitalStatus.class
+com\medsync_hospital\hospital_service\controller\HospitalController.class
+com\medsync_hospital\hospital_service\dto\HospitalRequestDTO.class
+com\medsync_hospital\hospital_service\HospitalServiceApplication.class

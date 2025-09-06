@@ -1,0 +1,9 @@
+com\medsync_hospital\claim_service\dto\ClaimRequestDTO.class
+com\medsync_hospital\claim_service\enums\ClaimType.class
+com\medsync_hospital\claim_service\service\ClaimService.class
+com\medsync_hospital\claim_service\entity\Claim.class
+com\medsync_hospital\claim_service\controller\ClaimController.class
+com\medsync_hospital\claim_service\repository\ClaimRepository.class
+com\medsync_hospital\claim_service\dto\ClaimResponseDTO.class
+com\medsync_hospital\claim_service\ClaimServiceApplication.class
+com\medsync_hospital\claim_service\enums\ClaimStatus.class

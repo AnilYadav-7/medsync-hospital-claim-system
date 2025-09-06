@@ -1,0 +1,63 @@
+{
+  "name": "chatbot-app",
+  "version": "1.0.0",
+  "description": "A modern chatbot application with AI integration, authentication, and real-time chat capabilities",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.8.8",
+    "@nhost/react": "^1.8.0",
+    "@nhost/react-apollo": "^1.8.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.5.1",
+    "graphql": "^16.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "react-scripts": "5.0.1",
+    "subscriptions-transport-ws": "^0.11.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "react-scripts start"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "graphql",
+    "react",
+    "nhost",
+    "hasura",
+    "n8n",
+    "openrouter"
+  ],
+  "author": "Internship Assessment",
+  "license": "MIT"
+} 

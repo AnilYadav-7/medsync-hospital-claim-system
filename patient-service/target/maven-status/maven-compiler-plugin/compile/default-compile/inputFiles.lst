@@ -1,0 +1,10 @@
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\controller\PatientController.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\dto\PatientRequestDTO.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\dto\PatientResponseDTO.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\entity\Patient.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\enums\BloodGroup.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\enums\Gender.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\enums\PatientStatus.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\PatientServiceApplication.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\repository\PatientRepository.java
+D:\medsync-hospital-claim-system\patient-service\src\main\java\com\medsync_hospital\patient_service\service\PatientService.java

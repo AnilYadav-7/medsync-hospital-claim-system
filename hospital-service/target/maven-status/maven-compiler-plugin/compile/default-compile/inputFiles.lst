@@ -1,0 +1,9 @@
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\controller\HospitalController.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\dto\HospitalRequestDTO.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\dto\HospitalResponseDTO.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\entity\Hospital.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\enums\HospitalStatus.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\enums\HospitalType.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\HospitalServiceApplication.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\repository\HospitalRepository.java
+D:\medsync-hospital-claim-system\hospital-service\src\main\java\com\medsync_hospital\hospital_service\service\HospitalService.java
