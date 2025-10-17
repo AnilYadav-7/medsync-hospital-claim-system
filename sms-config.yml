@@ -1,0 +1,62 @@
+# SMS Configuration for MedSync Hospital System
+# This configuration supports multiple SMS providers for OTP and notification services
+
+sms:
+  # Default SMS provider (twilio or fast2sms)
+  provider: twilio
+  
+  # Twilio Configuration
+  twilio:
+    account-sid: your-twilio-account-sid
+    auth-token: your-twilio-auth-token
+    from-number: +1234567890
+    # Optional: Twilio service SID for messaging service
+    service-sid: ""
+    # Optional: Webhook URL for delivery status
+    webhook-url: ""
+    
+  # Fast2SMS Configuration (Indian SMS provider)
+  fast2sms:
+    api-key: your-fast2sms-api-key
+    sender-id: TRADES
+    # Fast2SMS API endpoint
+    api-url: https://www.fast2sms.com/dev/bulkV2
+    # Route type: p for promotional, t for transactional
+    route: t
+    
+  # SMS Templates for different use cases
+  templates:
+    otp:
+      message: "Your OTP for MedSync Hospital is: {otp}. Valid for 10 minutes. Do not share this with anyone."
+      expiry-minutes: 10
+    appointment-reminder:
+      message: "Dear {patientName}, your appointment with Dr. {doctorName} is scheduled for {appointmentDate} at {appointmentTime}. Please arrive 15 minutes early."
+    claim-status:
+      message: "Your insurance claim #{claimNumber} status has been updated to {status}. For details, contact us at {hospitalPhone}."
+    registration-confirmation:
+      message: "Welcome to MedSync Hospital! Your registration is successful. Patient ID: {patientId}. Contact: {hospitalPhone}"
+    
+  # OTP Configuration
+  otp:
+    length: 6
+    expiry-minutes: 10
+    max-attempts: 3
+    resend-interval-minutes: 2
+    
+  # Rate limiting configuration
+  rate-limit:
+    max-sms-per-hour: 10
+    max-sms-per-day: 50
+    
+  # Retry configuration
+  retry:
+    max-attempts: 3
+    initial-delay-seconds: 1
+    max-delay-seconds: 30
+    
+  # Test configuration
+  test:
+    enabled: false
+    test-phone-numbers:
+      - "+919100784590"  # Your mobile number for testing
+    mock-response: true
